@@ -1,4 +1,4 @@
-const skills = ['defense','defense','defense','fouling out']
+const skills = ['defense','fouling out']
 const team = 'Golden State Warriors'
 
 const cryToRef = () => {
