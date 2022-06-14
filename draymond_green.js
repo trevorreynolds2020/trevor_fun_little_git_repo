@@ -8,3 +8,7 @@ const cryToRef = () => {
 const FOUL = (fouls) => {
     return fouls += 1
 }
+
+const actuallyShowUp = () => {
+    skills.append('play good')
+}
