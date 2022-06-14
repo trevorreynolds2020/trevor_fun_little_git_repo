@@ -1,4 +1,4 @@
-const skills = ['defense','scoring','cutting','spicy interviews','clutch']
+const skills = ['defense','scoring','cutting','spicy interviews']
 const team = 'Boston Celtics'
 
 const putTeamOnBack = () => {
