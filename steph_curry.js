@@ -4,3 +4,7 @@ const team = 'Golden State Warriors'
 const goOff = () => {
     skills.append('take over game')
 }
+
+const goZeroForNineFromThree = () => {
+    skills.remove('3pts')
+}
