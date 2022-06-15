@@ -12,3 +12,7 @@ const makeASillyPass = () => {
 const getLockedUp = () => {
     andrewWiggins.activeDefense()
 }
+
+const getLockedUp = () => {
+    andrewWiggins.activeDefense()
+}
