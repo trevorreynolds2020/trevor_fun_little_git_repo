@@ -8,3 +8,7 @@ const go3for17 = () => {
 const makeASillyPass = () => {
     skills.remove('playmaking')
 }
+
+const getLockedUp = () => {
+    andrewWiggins.activeDefense()
+}
