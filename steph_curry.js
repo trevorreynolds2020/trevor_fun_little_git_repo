@@ -13,4 +13,12 @@ const forgetToPlayDefense = () => {
     console.log('sorry Im too busy scoring to worry about all that d-fenze')
 }
 
+const dribbleDribbleDribble = () => {
+    skills.append('dribble x3')
+}
+
+const dribbleDribbleDribble = () => {
+    skills.append('dribble x3')
+}
+
 // KEEP THE DYNASTY GOING !
