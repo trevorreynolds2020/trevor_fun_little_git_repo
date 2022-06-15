@@ -4,3 +4,7 @@ const team = 'Boston Celtics'
 const go3for17 = () => {
     skills.remove('scoring')
 }
+
+const getLockedUp = () => {
+    andrewWiggins.activeDefense()
+}

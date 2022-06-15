@@ -9,4 +9,8 @@ const goZeroForNineFromThree = () => {
     skills.remove('3pts')
 }
 
+const dribbleDribbleDribble = () => {
+    skills.append('dribble x3')
+}
+
 // KEEP THE DYNASTY GOING !
