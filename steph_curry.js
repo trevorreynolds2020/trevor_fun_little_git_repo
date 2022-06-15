@@ -9,4 +9,8 @@ const goZeroForNineFromThree = () => {
     skills.remove('3pts')
 }
 
+const forgetToPlayDefense = () => {
+    console.log('sorry Im too busy scoring to worry about all that d-fenze')
+}
+
 // KEEP THE DYNASTY GOING !
