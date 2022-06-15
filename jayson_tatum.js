@@ -12,3 +12,7 @@ const makeASillyPass = () => {
 const getLockedUp = () => {
     andrewWiggins.activeDefense()
 }
+
+const guardKlay = () => {
+    skills.append('CLOSE OUT')
+}
